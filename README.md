@@ -8,11 +8,11 @@ Here are all I made for now:
 ### PLACE SELECTOR
 ```loadstring(game:HttpGet('https://gist.githubusercontent.com/DaRealNyxz/609ef3c0989e878c8187341303286363/raw/placeselector.raw'))()```
 
-## ROOMS REVISITED (www.roblox.com/games/15363062864)
+## [ROOMS REVISITED](www.roblox.com/games/15363062864)
 ### CUSTOM STARTING ROOM CHANGER
 ```loadstring(game:HttpGet('https://gist.githubusercontent.com/DaRealNyxz/ee255fe8e39960792f19072b76b7f778/raw/customstartingroom.raw'))()```
 
-## GRACE
+## [GRACE](https://www.roblox.com/games/138837502355157)
 ### AUTO REPRIEVE
 ```loadstring(game:HttpGet('https://gist.githubusercontent.com/DaRealNyxz/51fa2f98362b8bbe33237a248e4b03f0/raw/autoreprieve.raw'))()```
 ### OLD MUSIC FOR REPRIEVE
